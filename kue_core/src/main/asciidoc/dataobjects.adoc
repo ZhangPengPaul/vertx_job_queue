@@ -1,0 +1,36 @@
+= Cheatsheets
+
+[[Job]]
+== Job
+
+++++
+ Created by PaulZhang on 2016/9/13.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[attempts]]`attempts`|`Number (int)`|-
+|[[backoff]]`backoff`|`Json object`|-
+|[[createAt]]`createAt`|`Number (long)`|-
+|[[data]]`data`|`Json object`|-
+|[[delay]]`delay`|`Number (long)`|-
+|[[duration]]`duration`|`Number (long)`|-
+|[[failedAt]]`failedAt`|`Number (long)`|-
+|[[id]]`id`|`Number (long)`|-
+|[[jobState]]`jobState`|`link:enums.html#JobState[JobState]`|-
+|[[maxAttempts]]`maxAttempts`|`Number (int)`|-
+|[[priority]]`priority`|`link:enums.html#Priority[Priority]`|-
+|[[progress]]`progress`|`Number (int)`|-
+|[[promoteAt]]`promoteAt`|`Number (long)`|-
+|[[removeOnComplete]]`removeOnComplete`|`Boolean`|-
+|[[result]]`result`|`Json object`|-
+|[[startedAt]]`startedAt`|`Number (long)`|-
+|[[ttl]]`ttl`|`Number (int)`|-
+|[[type]]`type`|`String`|-
+|[[updatedAt]]`updatedAt`|`Number (long)`|-
+|[[zid]]`zid`|`String`|-
+|===
+

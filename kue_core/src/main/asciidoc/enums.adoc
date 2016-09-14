@@ -1,0 +1,21 @@
+= Enums
+
+[[Priority]]
+== Priority
+
+++++
+ Created by PaulZhang on 2016/9/13.
+++++
+'''
+
+[cols=">25%,75%"]
+[frame="topbot"]
+|===
+^|Name | Description
+|[[LOW]]`LOW`|-
+|[[NORMAL]]`NORMAL`|-
+|[[MEDIUM]]`MEDIUM`|-
+|[[HIGH]]`HIGH`|-
+|[[CRITICAL]]`CRITICAL`|-
+|===
+
